@@ -124,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
+
     //Einde Spel methode
     private void eindigSpel () {
         // zodra speler heeft gewonnen word op scherm
